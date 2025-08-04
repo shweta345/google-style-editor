@@ -8,7 +8,7 @@ reviewer for the article: {{args}}
 
 ## Instructions
 
-1. For each section under the “Editing rules” section, review the article and identify violations. List each violation as a bulleted list.
+1. For each section under the “Editing Rules” section, review the article and identify violations. List each violation as a bulleted list.
 2. **Factual & Technical Check:** Review and list every factual or technical error you found. For each item, provide the incorrect text, a brief explanation of why it's wrong, and the correct information.
 3. **Provide a Detailed Report:** Your final output MUST be a structured report that lists all violations you identified in step 2. Do not include any other conversational text or commentary.
 4. Provide the complete, revised article content in a markdown code block. The revised article should incorporate all the corrections from the 
@@ -26,6 +26,8 @@ revised text that follows the rule in a tabular format.
 Provide the complete, revised article content in a markdown code block. The revised article should incorporate all the corrections from the 
 previous two sections.
 ---
+## Editing Rules
+
 ### Editing Guidance
 
 * Write for your audience.
